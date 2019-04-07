@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Best Fuel</string>
+    <string name="gasPriceName">" precio de la gasolina por litro"</string>
+    <string name="etanolPriceName">" precio del etanol por litro"</string>
+    <string name="fuel_image">combustible</string>
+    <string name="resultText">" La mejor opcion es %1$s"</string>
+    <string name="gas">Gasolina</string>
+    <string name="ethanol">Etanol</string>
+</resources>

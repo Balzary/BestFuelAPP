@@ -2,6 +2,10 @@
     <string name="app_name">Best Fuel</string>
     <string name="gasPriceName">Preço do litro da gasolina</string>
     <string name="etanolPriceName">Preço do litro do etanol</string>
-    <string name="gasPercentage">4.00</string>
-    <string name="etanolPercentage">3.00</string>
+    <string name="gasPercentage" translatable="false">4.00</string>
+    <string name="fuel_image">Combustivel</string>
+    <string name="resultText">A melhor opção é %1$s</string>
+    <string name="gas">Gasolina</string>
+    <string name="ethanol">Etanol</string>
+    <string name="etanolPercentage" translatable="false">3.00</string>
 </resources>
